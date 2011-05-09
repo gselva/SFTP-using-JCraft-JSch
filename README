@@ -1,0 +1,4 @@
+SFTP using JCraft JSch (https://github.com/gselva)
+--------------------------------------------------
+A quick implementation that allows passphrase handling and deep folder structure creation. 
+Useful if you need to create a bunch of folders(and child folder) on a secure server (a CDN like Akamai) and fill them with files.
